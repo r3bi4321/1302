@@ -38,8 +38,13 @@ Wir haben uns entschieden, selbst eine Projektidee auszudenken. Unsere Applikati
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |   Webapplikation aufgerufen, Benutzer befindet sich auf Registrierungspage.           |   Username: Salma/Passwort:salma| Weiterleitung auf Loginpage                   |
+| 2.1  |  Webapplikation aufgerufen, Benutzer befindet sich auf Loginpage.            |  Salma/salma       |   Weiterleitung auf Mainpage                |
+| 3.1  |   Webapplikation läuft, Benutzer befindet sich auf Registrierungspage.           |  B3liebigesPW       |     Weiterleitung auf Loginpage               |
+| 4.1  |  Webapplikation aufgerufen, Benutzer befindet sich auf Loginpage, vorhandener Username bereits eingegeben.            |   huehtoe      |   Invalid username or password. Please try again.                |
+| 5.1  |   Webapplikation aufgerufen, Benutzer befindet sich auf Loginpage, vorhandener Username bereits eingegeben.             |  B3liebigesPW       |   Weiterleitung auf Mainpage                |
+| 6.1  |   Webapplikation aufgerufen, Benutzer befindet sich auf Registrierungspage.            |  Klick auf "Login" Button       |    Weiterleitung zu Loginpage               |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
