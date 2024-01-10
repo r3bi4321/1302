@@ -92,5 +92,5 @@ Wir haben uns dazu Entschieden uns die Arbeit aufzuteilen, dass jeder eigenstän
 | 5.1  |    15.12.23    |  Funktioniert        |  Salma Tanner      |
 | 6.1  |    15.12.23    |  Funktioniert        |  Salma Tanner      |
 
-
+Auf der Login- und Registrierungspage funktioniert alles, man kann sich registrieren und einloggen, sein eigenes Passwort wählen und dies wird ebenfalls überprüft.
 
