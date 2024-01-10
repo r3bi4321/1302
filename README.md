@@ -2,23 +2,25 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Rebecca Willi und Salma Tanner
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   10.11.23    | 0.0.1   | Informieren: Gemeinsames Überlegen einer Projektidee, starten mit der Projektdokumentation. |
+|   17.11.23    | 0.0.2   |  Planen/Entscheiden: Weiterführen der Projektdokumentation, Aufteilen der Aufträge.                                                            |
+|   24.11.23    | 0.0.3   |   Realisieren: Beginn mit der Realisation in aufgeteilten Aufträgen, Projektdokumentation aktualisieren.                                                           |
+|   01.12.23    | 0.0.4  | Realisieren: Fortsetzung, Projektdokumentation aktualisieren. |
+|   08.12.23 | 0.0.5  | Realisieren: Fortsetzung ,Projektdokumentation aktualisieren. |
+|   15.12.23    | 0.0.6 |Realisieren: Fortsetzung, Projektdokumentation aktualisieren. |
+|   22.12.23    | 0.0.7  | Realisieren: Abschliessen und Projektdokumentation fertigstellen. |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir haben uns entschieden, selbst eine Projektidee auszudenken. Unsere Applikation soll ein "Fitness-Journal" darstellen, wo der Benutzer Workouts eintragen kann, um seine Fitness-Reise festzuhalten. Also so eine Art Fitness-Tagebuch.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
 ### 1.2 User Stories
 
