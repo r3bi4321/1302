@@ -31,9 +31,8 @@ Wir haben uns entschieden, selbst eine Projektidee auszudenken. Unsere Applikati
 | 3  |   Muss              |  Funktional    |    Als ein User möchte ich ein beliebiges Passwort erstellen können, damit ich mich mit dem passenden Username einloggen kann.                                |
 | 4  |    Muss             |  Funktional    |    Als ein User möchte ich benachrichtigt werden, wenn das eingegebene Passwort falsch ist, damit ich es nochmals eingeben kann.                                |
 | 5 |    Muss             |  Funktional    | Als ein User möchte ich, dass ich nach dem erfolgreichen Login auf die Mainpage weitergeleitet werde, damit ich meine Workouts eintragen kann.                                   |
+| 6    |    Muss          |  Funktional    | Als User möchte ich, wenn ich bereits ein Login habe, die Registrierung umgehen können, damit ich nur ein loggin angelegt habe.     |
 
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
