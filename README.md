@@ -1,4 +1,4 @@
-# 1302
+ 1302
 
 # Projekt-Dokumentation
 
@@ -120,6 +120,15 @@ Wir haben uns dazu Entschieden uns die Arbeit aufzuteilen, dass jeder eigenstän
 | 4.1  |    15.12.23    |  Funktioniert        |  Salma Tanner      |
 | 5.1  |    15.12.23    |  Funktioniert        |  Salma Tanner      |
 | 6.1  |    15.12.23    |  Funktioniert        |  Salma Tanner      |
+| 7.1  |    15.12.23    | Funktioniert nicht   | Rebecca Willi      |
+| 8.1  |    15.12.23    | Funktioniert         | Rebecca Willi      |
+| 9.1  |   15.12.23     | Funktioniert         | Rebecca Willi      |
+| 9.2  |   15.12.23     | Funktioniert         | Rebecca Willi      | 
+| 10.1 |   15.12.23     | Funktioniert         | Rebecca Willi      |
+| 10.2 |   15.12.23     | Funktioniert         | Rebecca Willi      |
+| 11.1 |   15.12.23     | Funktioniert         | Rebecca Willi      |
+| 11.2 |   15.12.23     | Funktioniert         | Rebecca Willi      |
+| 12.1|    15.12.23     | Funktioniert         | Rebecca Willi      | 
 
 Auf der Login- und Registrierungspage funktioniert alles, man kann sich registrieren und einloggen, sein eigenes Passwort wählen und dies wird ebenfalls überprüft.
 
